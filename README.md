@@ -1,7 +1,9 @@
-Description:
- This is  a two player tic tac toe  Game.It has two player name(player 1 and player 2) inputs in the First page.
- You can enter your name and opponent name whenever you play.
- Next the main page!!!!!!!!!!
- Be Ready to play :)
- Have fun........
- This is Live site 
+#Description:
+
+ ##This is  a two player tic tac toe  Game.
+ ##It has two player name(player 1 and player 2) inputs in the First page.
+ ##You can enter your name and opponent name whenever you play.
+ ##Next the main page!!!!!!!!!!
+ ##Be Ready to play :)
+ ##Have fun........
+ #This is Live site 
