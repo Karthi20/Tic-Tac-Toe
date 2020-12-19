@@ -1,7 +1,7 @@
 ## Table of contents
 * [Description](#description)
 * [Technologies](#technologies)
-* [Hosted Link](#hosted link)
+* [Hosted Link](#hosted Link)
 
 ## Description:
 
