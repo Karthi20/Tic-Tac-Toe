@@ -20,4 +20,4 @@
  
 
 ## Hosted Link
-* Click here to see my Live site[Tic tac toe](#site link)
+* Click here to see my Live site[Tic tac toe](#https://karthi20.github.io/Tic-Tac-Toe/)
